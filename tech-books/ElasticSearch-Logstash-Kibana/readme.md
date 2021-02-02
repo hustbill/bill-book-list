@@ -2,14 +2,10 @@ ElasticSearch, Logstash and Kibana
 ======================================
 
 
-** Full-text search
+1. Full-text search
 
+2. Log Analysize 
 
-** Log Analysize 
+3. Dashboard with Grafana and Kibana
 
-
-** Dashboard with Grafana and Kibana
-
-
-
-** Compare with Splunk  
+4. Compare with Splunk  
